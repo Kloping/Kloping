@@ -10,11 +10,11 @@
 
 一个弱小的程序员 啥都不会
 
-![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
+![](https://img.shields.io/badge/-Python-555?style=flat-square&logo=Python&logoColor=FF9)
+![](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=Java&logoColor=F00)
+![](https://img.shields.io/badge/-Linux-00000F?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
+![](https://img.shields.io/badge/-Android-8FA?style=flat-square&logo=Android&logoColor=FFF)
 
 ![这是访问量数,请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kloping.kloping.readme)
