@@ -16,5 +16,7 @@
 ![](https://img.shields.io/badge/-Linux-00000F?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Android-8FA?style=flat-square&logo=Android&logoColor=FFF)
+![](https://img.shields.io/badge/-MySQL-FFF?style=flat-square&logo=MySQL&logoColor=000)
+
 
 ![这是访问量数,请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kloping.kloping.readme)
