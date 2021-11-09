@@ -6,9 +6,9 @@
 
 * 一个无业游民
 * 思维运动热爱者
-* 只会写一点简单的东西
+* 只会写一点简单的代码
 
-一个弱小的程序员 啥都不会
+一个小菜鸡 啥都不会
 
 ![](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
 ![](https://img.shields.io/badge/-Python-555?style=flat-square&logo=Python&logoColor=FF9)
