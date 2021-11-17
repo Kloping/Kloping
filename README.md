@@ -10,7 +10,7 @@
 
 一个小菜鸡 啥都不会
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight" alt="概要">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight" alt="概要">
 </a>
 
 ![](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
