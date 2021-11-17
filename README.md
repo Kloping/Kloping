@@ -9,9 +9,6 @@
 * 只会写一点简单的代码
 
 一个小菜鸡 啥都不会
-<a href="#">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight" alt="概要">
-</a>
 
 ![](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
 ![](https://img.shields.io/badge/-Python-555?style=flat-square&logo=Python&logoColor=FF9)
@@ -23,3 +20,6 @@
 
 ![这是访问量数,请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kloping.kloping.readme)
  
+<a href="#">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight" alt="概要">
+</a>
