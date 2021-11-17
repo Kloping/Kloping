@@ -2,6 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kloping&show_icons=true&theme=tokyonight" alt="概要">
 </a>
 
+<a href="#">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight" alt="概要">
+</a>
+
 这是是我的Github主页,你好啊!
 
 * 一个无业游民
@@ -20,6 +24,3 @@
 
 ![这是访问量数,请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kloping.kloping.readme)
  
-<a href="#">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight" alt="概要">
-</a>
