@@ -3,7 +3,7 @@
 </a>
 
 <a href="#">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight" alt="概要">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight" alt="概要">
 </a>
 
 这是是我的Github主页,你好啊!
