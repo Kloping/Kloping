@@ -1,6 +1,6 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kloping&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" alt="概要">
-</a>
+
+![kloping's github stats](https://github-readme-stats.vercel.app/api?username=kloping&show_icons=true&theme=tokyonight)  
+![Used about](https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight)
 
 这是是我的Github主页,你好啊!
 
