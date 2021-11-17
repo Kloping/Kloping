@@ -1,6 +1,5 @@
 
 ![kloping's github stats](https://github-readme-stats.vercel.app/api?username=kloping&show_icons=true&theme=tokyonight)  
-![Used about](https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight)
 
 这是是我的Github主页,你好啊!
 
@@ -18,5 +17,6 @@
 ![](https://img.shields.io/badge/-Android-8FA?style=flat-square&logo=Android&logoColor=FFF)
 ![](https://img.shields.io/badge/-MySQL-FFF?style=flat-square&logo=MySQL&logoColor=000)
 
+![Used about](https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight)
 
 ![这是访问量数,请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kloping.kloping.readme)
