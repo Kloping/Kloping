@@ -1,5 +1,5 @@
-<div style='background-image: url("http://123.57.42.227:20041/getRandPng"); '>
  
+<img src="http://123.57.42.227:20041/getRandPng">
  
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=Kloping&show_icons=true&title_color=7685FFFF&text_color=DA0094FF&icon_color=AD9CFF&bg_color=FF,545251FF,332328FF&hide_border=false&locale=cn" alt="概要">
 
@@ -28,8 +28,6 @@
 - ![7](https://img.shields.io/badge/-MySQL-FFF?style=flat-square&logo=MySQL&logoColor=000) <br>
 
 ![这是访问量数,请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kloping.kloping.readme)
-
-</div>
  
 
  
