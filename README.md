@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kloping&show_icons=true&theme=tokyonight" alt="概要">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kloping&show_icons=true&title_color=7685FFFF&text_color=DA0094FF&icon_color=AD9CFF&bg_color=FF,545251FF,332328FF&hide_border=false&locale=cn" alt="概要">
 </a>
 
 这是是我的Github主页,你好啊!
