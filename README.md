@@ -11,9 +11,11 @@
 * 思维运动热爱者
 * 只会写一点简单的代码
 
-一个小菜鸡 啥都不会
+Small garbage 啥都不会
 
 但是 我觉得 遇到的问题 一定会有解决的方法
+
+but i think there must be a solution to the problems encountered
 
 <hr>
 
