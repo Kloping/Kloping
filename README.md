@@ -24,6 +24,7 @@ but i think there must be a solution to the problems encountered
 * ![1](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
   ![3](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=Java&logoColor=F00)
   ![2](https://img.shields.io/badge/-Python-555?style=flat-square&logo=Python&logoColor=FF9)
+  ![2](https://img.shields.io/badge/-JavaScript-155?style=flat-square&logo=JavaScript&logoColor=F99)
 * ![4](https://img.shields.io/badge/-Linux-00000F?style=flat-square&logo=Linux&logoColor=fff)
   ![5](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
   ![6](https://img.shields.io/badge/-Android-8FA?style=flat-square&logo=Android&logoColor=FFF)
