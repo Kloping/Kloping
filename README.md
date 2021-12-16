@@ -1,5 +1,6 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=Kloping&show_icons=true&title_color=7685FFFF&text_color=DA0094FF&icon_color=AD9CFF&bg_color=FF,545251FF,332328FF&hide_border=false&locale=cn" alt="概要">
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=Kloping&show_icons=true&title_color=7685FFFF&text_color=DA0094FF&icon_color=AD9CFF&bg_color=FF,545251FF,332328FF&hide_border=false" alt="概要">
 
+[comment]: <> (  &locale=cn)
 
 <hr>
 <hr>
