@@ -3,7 +3,7 @@
 <hr>
 <hr>
 
-这是是<a href="http://github.com/Kloping"><img style='border-radius: 99px; width: 30px; height: 30px; display: inline' src="https://avatars.githubusercontent.com/u/87743020?v=4" alt="Kloping"></a>
+这里是<a href="http://github.com/Kloping"><img style='border-radius: 99px; width: 30px; height: 30px; display: inline' src="https://avatars.githubusercontent.com/u/87743020?v=4" alt="Kloping"></a>
 的github主页,你好啊你好 !
 
 * 一个无业游民
