@@ -9,6 +9,7 @@
 * 一个无业游民
 * 思维运动热爱者
 * 只会写一点简单的代码
+* 接单(私)
 
 Small garbage 啥都不会
 
@@ -18,7 +19,7 @@ but i think there must be a solution to the problems encountered
 
 <hr>
 
-<a  href="http://kloping.top" target="_blank"> 不算博客的网站 </a>
+<a  href="http://kloping.top" target="_blank"> 不算博客的网站 </a> http://kloping.top
 <a href="https://jq.qq.com/?_wv=1027&k=uLNboJ5c" target="_blank">常驻QQ群:794238572</a>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight&show_icons=true&title_color=7685FFFF&text_color=DA0094FF&icon_color=AD9CFF&bg_color=FF,545251FF,332328FF&hide_border=true" alt="概要">
 
