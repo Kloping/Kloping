@@ -19,8 +19,12 @@ but i think there must be a solution to the problems encountered
 
 <hr>
 
-<a  href="http://kloping.top" target="_blank"> 不算博客的网站 </a> http://kloping.top
-<a href="https://jq.qq.com/?_wv=1027&k=uLNboJ5c" target="_blank">常驻QQ群:794238572</a>
+[不算博客的网站](http://kloping.top)
+
+http://kloping.top
+
+[常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight&show_icons=true&title_color=7685FFFF&text_color=DA0094FF&icon_color=AD9CFF&bg_color=FF,545251FF,332328FF&hide_border=true" alt="概要">
 
 * ![1](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
@@ -32,10 +36,8 @@ but i think there must be a solution to the problems encountered
   ![6](https://img.shields.io/badge/-Android-8FA?style=flat-square&logo=Android&logoColor=FFF)
 * ![7](https://img.shields.io/badge/-MySQL-FFF?style=flat-square&logo=MySQL&logoColor=000)
   ![8](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-  
-![这是访问量数,请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kloping.kloping.readme)
- 
 
+ [已入驻爱发电](https://afdian.net/a/kloping)
  
   ![afdian-ঞ᭄若生ꦿ༊](https://user-images.githubusercontent.com/87743020/235341925-7eec9a3c-36e4-49d8-87b9-200f8f2c8de5.jpg)
 
