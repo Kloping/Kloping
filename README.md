@@ -1,9 +1,4 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=Kloping&show_icons=true&title_color=7685FFFF&text_color=DA0094FF&icon_color=AD9CFF&bg_color=FF,545251FF,332328FF&hide_border=false" alt="概要">
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&layout=compact&theme=tokyonight&show_icons=true&title_color=7685FFFF&text_color=DA0094FF&icon_color=AD9CFF&bg_color=FF,545251FF,332328FF&hide_border=true" alt="概要">
-
-
+ 
 <hr>
 <hr>
 
@@ -20,6 +15,13 @@ Small garbage 啥都不会
 但是 我觉得 遇到的问题 一定会有解决的方法
 
 but i think there must be a solution to the problems encountered
+
+<hr>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kloping&layout=compact)](https://wakatime.com/@kloping "WakaTime")
+
+
+[![visitors](https://profile-counter.glitch.me/kloping/count.svg)]()
 
 <hr>
 
@@ -40,7 +42,6 @@ http://kloping.top
   ![8](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 
- [已入驻爱发电](https://afdian.net/a/kloping)
- 
-  ![afdian-ঞ᭄若生ꦿ༊](https://user-images.githubusercontent.com/87743020/235341925-7eec9a3c-36e4-49d8-87b9-200f8f2c8de5.jpg)
+[已入驻爱发电](https://afdian.net/a/kloping)
 
+![afdian-ঞ᭄若生ꦿ༊](https://user-images.githubusercontent.com/87743020/235341925-7eec9a3c-36e4-49d8-87b9-200f8f2c8de5.jpg)
