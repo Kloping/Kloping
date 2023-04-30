@@ -1,7 +1,6 @@
 <hr>
 <hr>
 <a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kloping&count_private=true&show_icons=true"/></a>
-<a title="visitors"><img align="" src="https://profile-counter.glitch.me/kloping/count.svg"/></a>
 
 这里是<a href="http://github.com/Kloping"><img style='border-radius: 99px; width: 30px; height: 30px; display: inline' src="https://avatars.githubusercontent.com/u/87743020?v=4" alt="Kloping"></a>
 的github主页,你好啊你好 !
@@ -13,18 +12,17 @@
 
 Small garbage 啥都不会
 
+<a title="visitors"><img align="right" src="https://profile-counter.glitch.me/kloping/count.svg"/></a>
+
 但是 我觉得 遇到的问题 一定会有解决的方法
 
-but i think there must be a solution to the problems encountered
+but i think there must be a solution to the problems encountered 
 
 <hr> 
 
 <a title="Top Langs"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact&langs_count=6"/></a>
 
-[不算博客的网站](http://kloping.top)
-
-http://kloping.top
-
+* [不算博客的网站](http://kloping.top)  http://kloping.top
 
 * ![1](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
   ![3](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=Java&logoColor=F00)
