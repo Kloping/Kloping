@@ -25,7 +25,6 @@ but i think there must be a solution to the problems encountered
 
 http://kloping.top
 
-[常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
 
 * ![1](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
   ![3](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=Java&logoColor=F00)
@@ -39,6 +38,6 @@ http://kloping.top
 
 <hr>
 
-[已入驻爱发电](https://afdian.net/a/kloping)
+* [已入驻爱发电](https://afdian.net/a/kloping) [常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
 
 ![afdian-ঞ᭄若生ꦿ༊](https://user-images.githubusercontent.com/87743020/235341925-7eec9a3c-36e4-49d8-87b9-200f8f2c8de5.jpg)
