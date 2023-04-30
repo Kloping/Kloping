@@ -1,6 +1,7 @@
 <hr>
 <hr>
-<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kloping&count_private=true&show_icons=true" /></a>
+<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kloping&count_private=true&show_icons=true"/></a>
+<a title="visitors"><img align="" src="https://profile-counter.glitch.me/kloping/count.svg"/></a>
 
 这里是<a href="http://github.com/Kloping"><img style='border-radius: 99px; width: 30px; height: 30px; display: inline' src="https://avatars.githubusercontent.com/u/87743020?v=4" alt="Kloping"></a>
 的github主页,你好啊你好 !
@@ -18,13 +19,7 @@ but i think there must be a solution to the problems encountered
 
 <hr> 
 
-<span  align="right">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact&langs_count=6 "Top languages")]()
-
-[![visitors](https://profile-counter.glitch.me/kloping/count.svg)]()
-
-</span>
+<a title="Top Langs"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact&langs_count=6"/></a>
 
 [不算博客的网站](http://kloping.top)
 
@@ -41,8 +36,6 @@ http://kloping.top
   ![6](https://img.shields.io/badge/-Android-8FA?style=flat-square&logo=Android&logoColor=FFF)
 * ![7](https://img.shields.io/badge/-MySQL-FFF?style=flat-square&logo=MySQL&logoColor=000)
   ![8](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-
-
 
 <hr>
 
