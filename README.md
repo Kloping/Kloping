@@ -1,6 +1,7 @@
  
 <hr>
 <hr>
+<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Samarium150&count_private=true&show_icons=true" /></a>
 
 这里是<a href="http://github.com/Kloping"><img style='border-radius: 99px; width: 30px; height: 30px; display: inline' src="https://avatars.githubusercontent.com/u/87743020?v=4" alt="Kloping"></a>
 的github主页,你好啊你好 !
@@ -16,9 +17,9 @@ Small garbage 啥都不会
 
 but i think there must be a solution to the problems encountered
 
-<hr>
+<hr> 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kloping&layout=compact)](https://wakatime.com/@kloping "WakaTime")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,samarium150.github.io&layout=compact&langs_count=6 "Top languages")]()
 
 
 [![visitors](https://profile-counter.glitch.me/kloping/count.svg)]()
