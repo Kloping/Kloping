@@ -20,13 +20,11 @@ but i think there must be a solution to the problems encountered
 
 <span  align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,samarium150.github.io&layout=compact&langs_count=6 "Top languages")]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact&langs_count=6 "Top languages")]()
 
 [![visitors](https://profile-counter.glitch.me/kloping/count.svg)]()
 
 </span>
-
-
 
 [不算博客的网站](http://kloping.top)
 
