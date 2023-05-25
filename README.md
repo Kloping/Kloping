@@ -7,10 +7,10 @@
 
 * 一个无业游民
 * 思维运动热爱者
-* 只会写一点简单的代码
+* 程序代码热爱者
 * 接单(私)
 
-Small garbage 啥都不会
+Small garbage (modest)
 
 <a title="visitors"><img align="right" src="https://profile-counter.glitch.me/kloping/count.svg"/></a>
 
