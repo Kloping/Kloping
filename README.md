@@ -36,6 +36,6 @@ but i think there must be a solution to the problems encountered
 
 <hr>
 
-* [已入驻爱发电](https://afdian.net/a/kloping) [常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
+# * [已入驻爱发电](https://afdian.net/a/kloping) [常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
 
 ![afdian-ঞ᭄若生ꦿ༊](https://user-images.githubusercontent.com/87743020/235341925-7eec9a3c-36e4-49d8-87b9-200f8f2c8de5.jpg)
