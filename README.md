@@ -5,10 +5,10 @@
 这里是<a href="http://github.com/Kloping"><img style='border-radius: 99px; width: 30px; height: 30px; display: inline' src="https://avatars.githubusercontent.com/u/87743020?v=4" alt="Kloping"></a>
 的github主页,你好啊你好 !
 
-* 一个无业游民
 * 思维运动热爱者
 * 程序代码热爱者
-* 接单(私)
+* 缓速升级中..
+* 努力好学中..
 
 Small garbage (modest)
 
