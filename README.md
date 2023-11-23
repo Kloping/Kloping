@@ -20,7 +20,7 @@ The more we know, the more we know we don't know.
 
 但是 我觉得 遇到的问题 一定会有解决的方法
 
-but i think there must be a solution to the problems encountered 
+But I think there must be a solution to the problem
 
 <hr> 
 
