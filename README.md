@@ -10,6 +10,10 @@
 * 缓速升级中..
 * 努力好学中..
 
+时不时喜欢搞点小东西 
+
+[===-------] 当前目标是找到第一份对口工作
+
 Small garbage (modest)
 
 <a title="visitors"><img align="right" src="https://profile-counter.glitch.me/kloping/count.svg"/></a>
@@ -20,7 +24,8 @@ but i think there must be a solution to the problems encountered
 
 <hr> 
 
-<a title="Top Langs"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact&langs_count=6"/></a>
+<a title="Top Langs"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact
+&langs_count=6"/></a>
 
 * [不算博客的网站](http://kloping.top)  http://kloping.top
 
