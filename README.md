@@ -14,7 +14,7 @@
 
 [===-------] 当前目标是找到第一份对口工作
 
-Small garbage (modest)
+The more we know, the more we know we don't know.
 
 <a title="visitors"><img align="right" src="https://profile-counter.glitch.me/kloping/count.svg"/></a>
 
@@ -33,6 +33,7 @@ but i think there must be a solution to the problems encountered
   ![3](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=Java&logoColor=F00)
   ![2](https://img.shields.io/badge/-Python-555?style=flat-square&logo=Python&logoColor=FF9)
   ![2](https://img.shields.io/badge/-JavaScript-155?style=flat-square&logo=JavaScript&logoColor=F99)
+
 * ![4](https://img.shields.io/badge/-Linux-00000F?style=flat-square&logo=Linux&logoColor=fff)
   ![5](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
   ![6](https://img.shields.io/badge/-Android-8FA?style=flat-square&logo=Android&logoColor=FFF)
