@@ -12,7 +12,7 @@
 
 标准的全栈代码人 时不时喜欢搞点小东西 
 
-[===-------] 当前目标是找到第一份对口工作
+[===-------] 当前目标是找到第一份对口工作 如有小企业缺人可以帮忙
 
 The more we know, the more we know we don't know.
 
@@ -43,4 +43,5 @@ But I think there must be a solution to the problem
 <hr>
 
 ## [已入驻爱发电](https://afdian.net/a/kloping) [常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
+
 
