@@ -27,7 +27,7 @@ But I think there must be a solution to the problem
 <a title="Top Langs"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact
 &langs_count=6"/></a>
 
-* [不算博客的网站](http://bak0.kloping.top)  http://kloping.top
+* [不算博客的网站](http://bak0.kloping.top:81/)  http://kloping.top
 
 * ![1](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
   ![3](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=Java&logoColor=F00)
@@ -42,6 +42,7 @@ But I think there must be a solution to the problem
 
 <hr>
 
-## [已入驻爱发电](https://afdian.net/a/kloping) [常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
+## [已入驻爱发电](https://afdian.net/a/kloping) [常驻QQ群:794238572](
+https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
 
 
