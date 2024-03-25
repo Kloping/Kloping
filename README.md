@@ -42,7 +42,6 @@ But I think there must be a solution to the problem
 
 <hr>
 
-## [已入驻爱发电](https://afdian.net/a/kloping) [常驻QQ群:794238572](
-https://jq.qq.com/?_wv=1027&k=uLNboJ5c)
+[常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c) 关注github主页邮箱
 
 
