@@ -27,16 +27,18 @@ But I think there must be a solution to the problem
 <a title="Top Langs"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact
 &langs_count=6"/></a>
 
-* [不算博客的网站](http://bak0.kloping.top:81/)  http://kloping.top
+* [不算博客的网站](http://kloping.top/)  http://kloping.top
 
-* ![1](https://img.shields.io/badge/-Kotlin-FEE?style=flat-square&logo=Kotlin&logoColor=55F)
-  ![3](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=Java&logoColor=F00)
-  ![2](https://img.shields.io/badge/-Python-555?style=flat-square&logo=Python&logoColor=FF9)
-  ![2](https://img.shields.io/badge/-JavaScript-155?style=flat-square&logo=JavaScript&logoColor=F99)
-
+* ![1](https://img.shields.io/badge/-kotlin-FEE?style=flat-square&logo=kotlin&logoColor=55F)
+  ![3](https://img.shields.io/badge/-java-FFFFFF?style=flat-square&logo=javase&logoColor=F00)
+  ![9](https://img.shields.io/badge/-Python-555?style=flat-square&logo=Python&logoColor=FF9)
+  ![10](https://img.shields.io/badge/-JavaScript-155?style=flat-square&logo=JavaScript&logoColor=F99)
+  ![11](https://img.shields.io/badge/-TypeScript-155?style=flat-square&logo=TypeScript&logoColor=F19)
+  
 * ![4](https://img.shields.io/badge/-Linux-00000F?style=flat-square&logo=Linux&logoColor=fff)
   ![5](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
   ![6](https://img.shields.io/badge/-Android-8FA?style=flat-square&logo=Android&logoColor=FFF)
+  
 * ![7](https://img.shields.io/badge/-MySQL-FFF?style=flat-square&logo=MySQL&logoColor=000)
   ![8](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
