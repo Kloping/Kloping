@@ -34,6 +34,7 @@ But I think there must be a solution to the problem
   ![9](https://img.shields.io/badge/-Python-555?style=flat-square&logo=Python&logoColor=FF9)
   ![10](https://img.shields.io/badge/-JavaScript-155?style=flat-square&logo=JavaScript&logoColor=F99)
   ![11](https://img.shields.io/badge/-TypeScript-155?style=flat-square&logo=TypeScript&logoColor=F19)
+  ![11](https://img.shields.io/badge/-Vue3-155?style=flat-square&logo=Vue3&logoColor=F19)
   
 * ![4](https://img.shields.io/badge/-Linux-00000F?style=flat-square&logo=Linux&logoColor=fff)
   ![5](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
