@@ -2,8 +2,7 @@
 <hr>
 <a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kloping&count_private=true&show_icons=true&theme=synthwave"/></a>
 
-这里是<a href="http://github.com/Kloping"><img style='border-radius: 99px; width: 30px; height: 30px; display: inline' src="https://avatars.githubusercontent.com/u/87743020?v=4" alt="Kloping"></a>
-kloping的github主页,你好啊你好 !
+这里是kloping的github主页。
 
 * 思维运动热爱者
 * 程序代码热爱者
