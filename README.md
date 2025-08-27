@@ -1,6 +1,5 @@
 <hr>
 <hr>
-<a title="stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kloping&count_private=true&show_icons=true&theme=synthwave"/></a>
 
 这里是kloping的github主页。
 
@@ -15,16 +14,11 @@
 
 The more we know, the more we know we don't know.
 
-<a title="visitors"><img align="right" src="https://profile-counter.glitch.me/kloping/count.svg"/></a>
-
 但是 我觉得 遇到的问题 一定会有解决的方法
 
 But I think there must be a solution to the problem
 
 <hr> 
-
-<a title="Top Langs"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloping&exclude_repo=jekyll-TeXt-theme-template,kloping.github.io&layout=compact
-&langs_count=6"/></a>
 
 * [不算博客的网站](http://kloping.top/)  http://kloping.top
 
