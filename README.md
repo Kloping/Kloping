@@ -9,8 +9,7 @@
 * 努力好学中..
 
 标准的全栈代码人 时不时喜欢搞点小东西 
-
-[===-------] 当前目标是找到第一份对口工作
+<hr>
 
 The more we know, the more we know we don't know.
 
@@ -20,7 +19,7 @@ But I think there must be a solution to the problem
 
 <hr> 
 
-* [不算博客的网站](http://kloping.top/)  http://kloping.top
+* [不算博客的网站](https://kloping.top/)  http://kloping.top
 
 * ![1](https://img.shields.io/badge/-kotlin-FEE?style=flat-square&logo=kotlin&logoColor=55F)
   ![3](https://img.shields.io/badge/-java-FFFFFF?style=flat-square&logo=javase&logoColor=F00)
