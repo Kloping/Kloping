@@ -1,14 +1,14 @@
 <hr>
 <hr>
 
-这里是kloping的github主页。
+This is kloping's GitHub homepage.
 
 * 思维运动热爱者
 * 程序代码热爱者
 * 缓速升级中..
 * 努力好学中..
 
-标准的全栈代码人 时不时喜欢搞点小东西 
+A standard full-stack coder likes to tinker with small projects from time to time.
 <hr>
 
 The more we know, the more we know we don't know.
@@ -37,6 +37,6 @@ But I think there must be a solution to the problem
 
 <hr>
 
-[常驻QQ群:794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c) 关注github主页邮箱 WXID: kloping_
+[QQ,GROUP794238572](https://jq.qq.com/?_wv=1027&k=uLNboJ5c) 主页邮箱 WXID: kloping_
 
 
